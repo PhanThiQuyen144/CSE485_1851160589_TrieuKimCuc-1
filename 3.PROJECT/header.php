@@ -68,7 +68,7 @@
                 <div class="container" >
                     <div class="header_logo " >
                         <h1>
-                            <a href="http://cse.tlu.edu.vn/" >
+                            <a href="../3.PROJECT/CSE.php" >
                                 <img src="../3.PROJECT/images/logo.jpg" alt="" width="547px"class="img-fluid" height="82px">
                             </a>
                         </h1>
@@ -78,7 +78,7 @@
                            <div class="collapse navbar-collapse" id="collapsibleNavId">
                                <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
                                    <li class="nav-item dropdown ">
-                                        <a class="homesp navbar-brand" href="http://cse.tlu.edu.vn">TRANG CHỦ</a>
+                                        <a class="homesp navbar-brand" href="../3.PROJECT/CSE.php">TRANG CHỦ</a>
                                    </li>
                                </ul>
                            </div>
@@ -88,13 +88,13 @@
                            <div class="collapse navbar-collapse" id="collapsibleNavId">
                                <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
                                     <li class="nav-item dropdown">
-                                       <a class="navbar-brand has-sub has-sub1" href="../3.PROJECT/gioithieu.html" id="dropdownId" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                       <a class="navbar-brand has-sub has-sub1" href="../3.PROJECT/include/gioithieu/gioithieu.php" id="dropdownId" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                        GIỚI THIỆU</a>
-                                       <div class="dropdown-menu nav-sub nav-sub1 " aria-labelledby="dropdownId">
-                                           <a class="dropdown-item text-white" href="../3.PROJECT/logokhoa.php">Logo khoa CNTT</a>
-                                           <a class="dropdown-item text-white" href="../3.PROJECT/loichaomung.php">Lời chào mừng</a>
-                                           <a class="dropdown-item text-white" href="../3.PROJECT/cocautochuc.php">Tổ chức</a>
-                                           <a class="dropdown-item text-white" href="../3.PROJECT/hoptacquocte.php">Hợp tác liên kết</a>
+                                       <div class="dropdown-menu nav-sub nav-sub1 dropdown_menu  " aria-labelledby="dropdownId">
+                                           <a class="dropdown-item text-white" href="../3.PROJECT/include/gioithieu/logokhoa.php">Logo khoa CNTT</a>
+                                           <a class="dropdown-item text-white" href="../3.PROJECT/include/gioithieu/loichaomung.php">Lời chào mừng</a>
+                                           <a class="dropdown-item text-white" href="../3.PROJECT/include/gioithieu/cocautochuc.php">Tổ chức</a>
+                                           <a class="dropdown-item text-white" href="../3.PROJECT/include/gioithieu/hoptacquocte.php">Hợp tác liên kết</a>
                                        </div>
                                    </li>
                                </ul>
@@ -103,7 +103,7 @@
                                <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
                                     <li class="nav-item dropdown ">
                                        <a class="navbar-brand has-sub has-sub2" href="http://cse.tlu.edu.vn/khoa-hoc-cong-nghe" id="dropdownId" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">NGHIÊN CỨU KHOA HỌC</a>
-                                       <div class="dropdown-menu nav-sub nav-sub2" aria-labelledby="dropdownId">
+                                       <div class="dropdown-menu nav-sub nav-sub2 dropdown_menu" aria-labelledby="dropdownId">
                                            <a class="dropdown-item text-white" href="http://cse.tlu.edu.vn/cac-de-tai-du-an">Các đề tài, dự án</a>
                                            <a class="dropdown-item text-white" href="http://cse.tlu.edu.vn/thong-tin-seminar">Thông tin seminar</a>
                                             <a class="dropdown-item text-white" href="http://cse.tlu.edu.vn/cac-cong-trinh-cong-bo">Công trình công bố</a>
@@ -113,10 +113,10 @@
                                </ul>
                            </div>
                            <div class="collapse navbar-collapse" id="collapsibleNavId">
-                               <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+                               <ul class="navbar-nav mr-auto mt-2 mt-lg-0 ">
                                     <li class="nav-item dropdown">
                                        <a class="navbar-brand has-sub has-sub3" href="http://cse.tlu.edu.vn/dao-tao" id="dropdownId" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">ĐÀO TẠO</a>
-                                       <div class="dropdown-menu nav-sub nav-sub3" aria-labelledby="dropdownId">
+                                       <div class="dropdown-menu nav-sub nav-sub3 dropdown_menu" aria-labelledby="dropdownId">
                                            <a class="dropdown-item text-white" href="http://cse.tlu.edu.vn/dao-tao-dai-hoc-chinh-quy">Đào tạo đại học</a>
                                            <a class="dropdown-item text-white" href="http://cse.tlu.edu.vn/dao-tao-sau-dai-hoc">Đào tạo sau đại họcg</a>
                                            <a class="dropdown-item text-white" href="http://cse.tlu.edu.vn/%c4%90%c3%a0o-t%e1%ba%a1o/Chu%e1%ba%a9n-%c4%91%e1%ba%a7u-ra">Chuẩn đầu ra</a>
@@ -128,10 +128,10 @@
                                </ul>
                            </div>
                            <div class="collapse navbar-collapse" id="collapsibleNavId">
-                               <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+                               <ul class="navbar-nav mr-auto mt-2 mt-lg-0 ">
                                     <li class="nav-item dropdown">
                                        <a class="navbar-brand has-sub has-sub4" href="http://cse.tlu.edu.vn/bo-mon-trung-tam" id="dropdownId" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">BỘ MÔN-TRUNG TÂM</a>
-                                       <div class="dropdown-menu nav-sub nav-sub4" aria-labelledby="dropdownId">
+                                       <div class="dropdown-menu nav-sub nav-sub4 dropdown_menu" aria-labelledby="dropdownId">
                                            <a class="dropdown-item text-white" href="http://cse.tlu.edu.vn/cong-nghe-phan-mem">CN phần mềm</a>
                                            <a class="dropdown-item text-white" href="http://cse.tlu.edu.vn/he-thong-thong-tin">Hệ thống thông tin</a>
                                            <a class="dropdown-item text-white" href="http://cse.tlu.edu.vn/khoa-hoc-may-tinh">Khoa học máy tính</a>
@@ -148,7 +148,7 @@
                                <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
                                     <li class="nav-item dropdown">
                                        <a class="navbar-brand has-sub has-sub5" href="http://cse.tlu.edu.vn/sinh-vien" id="dropdownId" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">SINH VIÊN</a>
-                                       <div class="dropdown-menu nav-sub nav-sub5" aria-labelledby="dropdownId">
+                                       <div class="dropdown-menu nav-sub nav-sub5 dropdown_menu" aria-labelledby="dropdownId">
                                            <a class="dropdown-item text-white" href="http://cse.tlu.edu.vn/tai-lieu-sinh-vien">Tài liệu sinh viên</a>
                                            <a class="dropdown-item text-white" href="http://cse.tlu.edu.vn/to-tu-van-hoc-tap">Tổ tư vấn học tập</a>
                                            <a class="dropdown-item text-white" href="http://cse.tlu.edu.vn/Sinh-vi%c3%aan/Bi%e1%bb%83u-m%e1%ba%abu-%c4%90ATN">Biểu mẫu ĐATN</a>
@@ -158,9 +158,9 @@
                                </ul>
                            </div>
                            <div class="collapse navbar-collapse" id="collapsibleNavId1">
-                               <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+                               <ul class="navbar-nav mr-auto mt-2 mt-lg-0 ">
                                     <li class="nav-item dropdown">
-                                       <a class="navbar-brand has-sub has-sub6" href="http://cse.tlu.edu.vn/tin-tuc-thong-bao" id="dropdownId" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">TIN TỨC</a>
+                                       <a class="navbar-brand has-sub has-sub6 dropdown_menu" href="http://cse.tlu.edu.vn/tin-tuc-thong-bao" id="dropdownId" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">TIN TỨC</a>
                                        <div class="dropdown-menu nav-sub nav-sub6" aria-labelledby="dropdownId">
                                            <a class="dropdown-item text-white" href="http://cse.tlu.edu.vn/su-kien">Sự kiện</a>
                                            <a class="dropdown-item text-white" href="http://cse.tlu.edu.vn/cse-tren-bao">CSE trên báo</a>
@@ -169,9 +169,9 @@
                                </ul>
                            </div>
                            <div class="collapse navbar-collapse" id="collapsibleNavId2">
-                               <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+                               <ul class="navbar-nav mr-auto mt-2 mt-lg-0 ">
                                     <li class="nav-item dropdown">
-                                       <a class="navbar-brand has-sub has-sub7" href="http://cse.tlu.edu.vn/tin-thong-bao" id="dropdownId" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">THÔNG BÁO</a>
+                                       <a class="navbar-brand has-sub has-sub7 dropdown_menu" href="http://cse.tlu.edu.vn/tin-thong-bao" id="dropdownId" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">THÔNG BÁO</a>
                                        <div class="dropdown-menu nav-sub nav-sub7" aria-labelledby="dropdownId">
                                             <a class="dropdown-item text-white" href="http://cse.tlu.edu.vn/thong-bao-sinh-vien">Thông báo</a>
                                             <a class="dropdown-item text-white" href="http://cse.tlu.edu.vn/thong-bao-dao-tao">TB Đào tạo</a>
@@ -230,12 +230,12 @@
                       </div>
                     <ul class="list-nav-mobile">
                         <li ><a href="" class="nav-link-mobile">TRANG CHỦ</a></li>
-                        <li><a href=""class="nav-link-mobile">GIỚI THIỆU</a>
+                        <li><a href="../3.PROJECT/include/gioithieu/gioithieu.php"class="nav-link-mobile">GIỚI THIỆU</a>
                             <ul class="list-sub-mobile">
-                                <li><a href="../3.PROJECT/logokhoa.php"class="sub-link-mobile">Logo khoa CNTT</a></li>
-                                <li><a href="../3.PROJECT/loichaomung.php"class="sub-link-mobile">Lời chào mừng</a></li>
-                                <li><a href="../3.PROJECT/cocautochuc.php"class="sub-link-mobile">Tổ chức</a></li>
-                                <li><a href="../3.PROJECT/hoptacquocte.php"class="sub-link-mobile">Hợp tác liên kết</a></li>
+                                <li><a href="../3.PROJECT/include/gioithieu/logokhoa.php"class="sub-link-mobile">Logo khoa CNTT</a></li>
+                                <li><a href="../3.PROJECT/include/gioithieu/loichaomung.php"class="sub-link-mobile">Lời chào mừng</a></li>
+                                <li><a href="../3.PROJECT/include/gioithieu/cocautochuc.php"class="sub-link-mobile">Tổ chức</a></li>
+                                <li><a href="../3.PROJECT/include/gioithieu/hoptacquocte.php"class="sub-link-mobile">Hợp tác liên kết</a></li>
                               </ul></li>
                         <li><a href=""class="nav-link-mobile">NGHIÊN CỨU KHOA HỌC</a>
                             <ul class="list-sub-mobile">
