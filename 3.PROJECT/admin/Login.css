@@ -1,0 +1,85 @@
+.globalnav{
+    background-color: #003478;
+    justify-content: right;
+    font-size: 14px;
+    height: 30px;
+    padding: 5px 0px;
+   
+}
+.label a{
+    text-decoration: none;
+}
+.label a:hover{
+    color: chocolate !important;
+}
+.list-top ul li a{
+    /* display: flex; */
+    text-decoration: none;
+   
+}
+.list-top ul li{
+    float: left;
+    padding-left: 10px;
+    /* text-transform: none; */
+    list-style-type: none;
+}
+.iconsearch{
+    margin-left: 20px;
+    background-color: white;
+    width: 20px;
+    margin-bottom: 5px;
+    margin-right: 300px;
+}
+.container{
+    justify-content: center;
+    margin-top: 50px;
+    max-width: 900px;
+    margin-bottom: 10px;
+    /* background-color: goldenrod; */
+    
+}
+.username, .password{
+    /* background-color: goldenrod; */
+    margin-left: 50px;
+    margin-bottom: 20px;
+    margin-right: 50px;
+    text-align: center;
+    font-weight: 600;
+    color: black;
+    
+}
+.username:hover, .password:hover{
+    text-decoration: none;
+    color: black;
+}
+input{
+    border-radius: 5px;
+}
+.Login{
+    justify-content: center;
+    margin-left: 170px;
+    margin-right: 10px;
+    padding: 3px 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+.Cancel{
+    padding: 3px 20px;
+    border-radius: 5px;
+    border-color: black;
+    font-weight: 600;
+}
+.checkbox{
+    margin-left: 170px;
+    margin-right: 10px;
+}
+.Register{
+    margin-left: 170px;
+    margin-right: 10px;
+    margin-top: 20px;
+    
+}
+button{
+    border-radius: 2px;
+}

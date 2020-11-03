@@ -1,0 +1,51 @@
+*{
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+}
+.gthieu{
+     background-color: #003478;
+    border-radius: 3px;
+    justify-content: center;
+    padding-top: 5px;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-left: 20px;
+    
+}
+.gthieu  h5 a{
+    text-decoration: none;
+}
+.gthieu a:hover{
+    color: green !important;
+}
+
+.content{
+    clear: both;
+    margin-top: 5%;
+    padding-left: 5%;
+}
+.images{
+     margin-top: 3%;
+}
+.content a{
+     text-decoration: none;
+}
+.gioithieu1{
+    /* background-color: grey; */
+    padding-bottom: 5%;
+    border-bottom: 1px solid grey;
+    padding-top: 3%;
+
+}
+.gioithieu1:hover{
+    background-color: rgb(218, 216, 216);
+}
+.icon{
+    clear: both;
+    float: right;
+    /* margin-right: 15%; */
+    margin-top: 5%;
+}
+.giangvien{
+    display:flex; 
+    border-bottom:  1px dotted #808080;
+    margin-top: 2%;
+}
